@@ -1,0 +1,25 @@
+{
+  "name": "converser-nebula",
+  "version": "1.0.0",
+  "description": "Communicate with Nebula with a converser tool, ensuring secure and reliable communication.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/prowlerenter/converser-nebula"
+  },
+  "author": "prowlerenter",
+  "license": "MIT",
+  "dependencies": {
+    "nebulachain-whisperer": "1.0.0",
+    "converser-nebula": "1.0.0",
+    "dotenv": "1.0.0",
+    "firebase": "1.0.0",
+    "jest": "1.0.0",
+    "chalk": "1.0.0",
+    "enzyme": "1.0.0",
+    "supertest": "1.0.0"
+  }
+}
